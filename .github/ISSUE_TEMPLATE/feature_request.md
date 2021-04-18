@@ -1,20 +1,33 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Suggestion
+about: A development suggestion made by a player, staff member, or developer.
+title: '[FEATURE] Description Here'
+labels: Suggestion
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+Details
+--
+**Suggestion Link (Forum):** 
+**New or Modified Feature?:**
+**Who does it affect?:**
+**Does the community generally want this?:**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+<br>Description
+--
+[DESCRIPTION OF SUGGESTION]
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+
+<br>Status
+--
+- [ ] Suggestion acknowledged
+- [ ] Dev work started
+- [ ] Dev work finished
+- [ ] Merged into master
+
+
+<br>Related Issues
+--
+[ADD LINKS TO ANY RELATED ISSUES]
